@@ -1,2 +1,2 @@
 # Circuit-Workout-Companion
-**Circuit Workout Companion** is a minimalist, split-screen web app. It guides users through workouts with smart logic, switching between high-visibility timers and rep counters. It supports true circuit structure with automatic rests for focused training.
+**Circuit Workout Companion** is a minimalist, single-page web application designed to guide users through precise circuit training routines. It features a clean split-screen UI that dynamically switches between high-visibility countdown timers and manual rep counters based on the exercise type. The app strictly enforces true circuit logic and includes automated rest periods, providing a focused, distraction-free companion for structured workouts.
